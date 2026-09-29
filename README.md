@@ -10,7 +10,9 @@ pinned: false
 
 # Argos Translate EN → ID
 
-Layanan penerjemah judul Inggris → Bahasa Indonesia, 100% offline (Argos Translate), tanpa API key, tanpa database. Dipakai oleh [news-app-web](https://github.com/muhamadAvwan/news-app-web).
+Layanan penerjemah judul Inggris → Bahasa Indonesia, 100% offline (Argos Translate), tanpa API key, tanpa database.
+
+> **Status: OPSIONAL.** news-app-web sekarang memakai terjemahan bawaan browser dan **tidak lagi membutuhkan layanan ini**. Repo ini disimpan sebagai alternatif bila suatu saat ingin terjemahan server-side.
 
 ## Endpoint
 
